@@ -204,7 +204,7 @@ async {
                 }, icon: Icon(Icons.list , color: _isDay?Colors.black :Colors.white,)),
                 SizedBox(width: width * 0.2),
                  Text("Telawa" , style: GoogleFonts.pacifico(
-            fontSize: 40,
+            fontSize: 30,
             textStyle: const TextStyle(fontWeight: FontWeight.w200),
             color: _isDay? Colors.black: Colors.white,
           )),
